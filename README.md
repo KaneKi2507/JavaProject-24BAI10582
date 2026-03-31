@@ -1,7 +1,7 @@
 # Campus Course & Records Manager (CCRM)
 
-**Name:** Lakshya Chandani  
-**Reg No:** 24BAI10575
+**Name:** Ayush Kumar Thakur
+**Reg No:** 24BAI10582
 
 This is a comprehensive console-based Java application designed to manage the core data and processes of a higher education institution. It's built to handle everything from student and course information to managing enrollments and grades, all while keeping your data safe with robust file operations.
 
