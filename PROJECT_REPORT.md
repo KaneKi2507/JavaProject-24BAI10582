@@ -1,8 +1,11 @@
 # CAPSTONE PROJECT REPORT
 
 **Project Title:** Campus Course & Records Manager (CCRM)  
-**Student Name:** Lakshya Chandani  
-**Registration Number:** 24BAI10575  
+
+**Student Name:** Ayush Kumar Thakur 
+
+**Registration Number:** 24BAI10582
+
 **Course:** Programming in Java  
 
 ---
